@@ -42,8 +42,7 @@ A minimal backend service built with .NET 8 that enables clients to define confi
 - **Method:** POST
 - **URL:** `http://localhost:5000/api/workflows`
 - **Headers:** `Content-Type: application/json`
-- **Body:**
-{
+- **Body:** {
 "name": "Simple Approval",
 "states": [
 {
@@ -71,7 +70,6 @@ A minimal backend service built with .NET 8 that enables clients to define confi
 }
 ]
 }
-
 - **Expected:** 201 Created + workflow with ID
 - **Note:** Copy the workflow ID from the response
 
