@@ -6,7 +6,7 @@ A minimal backend service built with .NET 8 that enables clients to define confi
 - Postman
 
 ### Running the Application
-1. **Clone the repository:**
+1. **Clone the repository**
 2. **Run the application:**  dotnet run
 3. **The API will be available at:**  http://localhost:5000
 
