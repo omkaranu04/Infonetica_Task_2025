@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Infonetica_Task_22CS30016_IITKGP/1.0.0": {
+        "runtime": {
+          "Infonetica_Task_22CS30016_IITKGP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Infonetica_Task_22CS30016_IITKGP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Infonetica_Task_22CS30016_IITKGP.props" />
+</Project>
